@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JulienRC
+- 👀 I’m interested in computer science and more about cybersecurity
+- 🌱 I’m currently practicing on HackTheBox 
